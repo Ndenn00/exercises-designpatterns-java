@@ -1,4 +1,4 @@
-package com.nial;
+package com.patterns;
 
 public class Main {
 

@@ -1,5 +1,6 @@
-package com.nial;
+package com.patterns;
 
+//TODO sort comments
 public class Dog extends Animal{
 
     public void digHole(){

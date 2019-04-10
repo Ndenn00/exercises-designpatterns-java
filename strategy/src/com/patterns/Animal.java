@@ -1,4 +1,4 @@
-package com.nial;
+package com.patterns;
 
 public class Animal {
 
@@ -35,18 +35,6 @@ public class Animal {
     public void setSound(String newSound){ sound = newSound; }
     public String getSound(){ return sound; }
 
-	/* BAD
-	* You don't want to add methods to the super class.
-	* You need to separate what is different between subclasses
-	* and the super class
-	public void fly(){
-
-		System.out.println("I'm flying");
-
-	}
-	*/
-
-    // Animal pushes off the responsibility for flying to flyingType
 
     public String tryToFly(){
 
@@ -54,8 +42,6 @@ public class Animal {
 
     }
 
-    // If you want to be able to change the flyingType dynamically
-    // add the following method
 
     public void setFlyingAbility(Flys newFlyType){
 

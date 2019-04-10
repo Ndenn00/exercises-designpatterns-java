@@ -1,5 +1,5 @@
-package com.nial;
-
+package com.patterns;
+//TODO sort comments
 public class Bird extends Animal{
 
     // The constructor initializes all objects
