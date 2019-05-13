@@ -2,9 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b87f38c-3470-44d6-b653-242639275964" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/factory/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/ChicagoStylePepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/ChicagoStylePepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleVeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/DependentPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/DependentPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/NYPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/NYStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/NYStyleCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/NYStyleClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/NYStyleClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/NYStylePepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/NYStylePepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/NYStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/NYStyleVeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/src/com/basic/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/com/basic/PizzaTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/SimpleObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/SimpleObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/SimpleSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/SimpleSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/HeatIndexDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/HeatIndexDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/StatisticsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/StatisticsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStationHeatIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStationHeatIndex.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,42 +42,57 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1767793869">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="11" />
-          <entry key="md" value="7" />
+          <entry key="java" value="43" />
+          <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
-          <entry key="Markdown" value="7" />
+          <entry key="JAVA" value="43" />
+          <entry key="Markdown" value="9" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="6" />
-          <entry key="java" value="298" />
-          <entry key="md" value="1661" />
+          <entry key="java" value="438" />
+          <entry key="md" value="1669" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="298" />
-          <entry key="Markdown" value="1661" />
+          <entry key="JAVA" value="438" />
+          <entry key="Markdown" value="1669" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -57,22 +101,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/factory/src/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="102">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/CurrentConditionsDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/DisplayElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/ForecastDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/HeatIndexDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Observer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/StatisticsDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStationHeatIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -106,9 +219,38 @@
         <option value="$PROJECT_DIR$/observer/src/com/pattern/README.md" />
         <option value="$PROJECT_DIR$/observer/src/com/pattern/StockGrabber.java" />
         <option value="$PROJECT_DIR$/strategy/src/com/basic/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/factory/src/README.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/Pizza.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/NYStyleVeggiePizza.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleCheesePizza.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/PizzaTestDrive.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/ChicagoPizzaStore.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleClamPizza.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/ChicagoStylePepperoniPizza.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleVeggiePizza.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/DependentPizzaStore.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/NYPizzaStore.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/NYStyleCheesePizza.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/NYStyleClamPizza.java" />
+        <option value="$PROJECT_DIR$/factory/src/com/basic/NYStylePepperoniPizza.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Example.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Observer.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/SimpleObserver.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/SimpleSubject.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Subject.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/CurrentConditionsDisplay.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/DisplayElement.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/ForecastDisplay.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/HeatIndexDisplay.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Observer.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/StatisticsDisplay.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Subject.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherData.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStationHeatIndex.java" />
       </list>
     </option>
   </component>
@@ -119,9 +261,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -146,18 +288,52 @@
               <item name="factory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exercises-designpatterns-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises-designpatterns-java" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercises-designpatterns-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises-designpatterns-java" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercises-designpatterns-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises-designpatterns-java" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercises-designpatterns-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises-designpatterns-java" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleHeadFirst" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercises-designpatterns-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises-designpatterns-java" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weatherHeadFirst" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557739160825" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557764271615" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -214,18 +390,19 @@
       <updated>1554882350613</updated>
       <workItem from="1554882355985" duration="3013000" />
       <workItem from="1554913077129" duration="1097000" />
-      <workItem from="1557733098404" duration="4330000" />
+      <workItem from="1557733098404" duration="4481000" />
+      <workItem from="1557761983296" duration="1320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8440000" />
+    <option name="totallyTimeSpent" value="9911000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="761" y="0" width="782" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17753121" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3434903" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -241,7 +418,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3328551" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3323782" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -249,7 +426,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32963988" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
@@ -314,30 +491,135 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/observer/src/com/basic/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/strategy/src/com/basic/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="102" selection-start-line="4" selection-start-column="102" selection-end-line="4" selection-end-column="102" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/observer/src/com/basic/StockGrabber.java">
+    <entry file="file://$PROJECT_DIR$/factory/src/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="79">
+            <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/NYStyleVeggiePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/PizzaTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/ChicagoPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleClamPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/ChicagoStylePepperoniPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/ChicagoStyleVeggiePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/DependentPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/NYPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/NYStyleCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/NYStyleClamPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/com/basic/NYStylePepperoniPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -348,6 +630,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/basic/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/observer/src/com/basic/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -355,27 +647,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strategy/src/com/basic/Main.java">
+    <entry file="file://$PROJECT_DIR$/observer/src/com/basic/StockGrabber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="102">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/simpleHeadFirst/SimpleObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/simpleHeadFirst/SimpleSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/simpleHeadFirst/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/ForecastDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/HeatIndexDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/StatisticsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/com/weatherHeadFirst/WeatherStationHeatIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

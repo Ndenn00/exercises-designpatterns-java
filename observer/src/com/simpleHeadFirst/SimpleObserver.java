@@ -1,5 +1,5 @@
-package headfirst.designpatterns.observer.simple;
-	
+package com.simpleHeadFirst;
+
 public class SimpleObserver implements Observer {
 	private int value;
 	private Subject simpleSubject;

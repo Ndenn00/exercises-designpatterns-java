@@ -2,7 +2,7 @@
 A collection of java design patterns and notes for reference
 
 ## Creational
-### [Factory Methods](https://github.com/Ndenn00/exercises-designpatterns-java/tree/master/factory)
+### [Factory Methods](https://github.com/Ndenn00/exercises-designpatterns-java/tree/master/factory/src)
 * Creates an instance of several derived classes
 
 ## Behavioural 

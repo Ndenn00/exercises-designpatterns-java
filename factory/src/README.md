@@ -3,7 +3,7 @@
 The Factory Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate. 
 Factory methods let a class defer instantiation to subclasses. 
 
-![Simple Factory][https://www.oodesign.com/images/stories/factory%20implementation.gif]
+![Simple Factory](https://www.oodesign.com/images/stories/factory%20implementation.gif)
 
 ## How? 
 

@@ -1,4 +1,4 @@
-package headfirst.designpatterns.observer.simple;
+package com.simpleHeadFirst;
 
 public interface Subject {
 	public void registerObserver(Observer o);

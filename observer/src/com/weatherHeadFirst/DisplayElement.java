@@ -1,4 +1,4 @@
-package headfirst.designpatterns.observer.weather;
+package com.weatherHeadFirst;
 
 public interface DisplayElement {
 	public void display();

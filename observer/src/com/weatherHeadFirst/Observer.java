@@ -1,4 +1,4 @@
-package headfirst.designpatterns.observer.weather;
+package com.weatherHeadFirst;
 
 public interface Observer {
 	public void update(float temp, float humidity, float pressure);

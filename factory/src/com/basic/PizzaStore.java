@@ -1,4 +1,6 @@
-package headfirst.designpatterns.factory.pizzafm;
+package com.basic;
+
+import com.basic.Pizza;
 
 public abstract class PizzaStore {
  

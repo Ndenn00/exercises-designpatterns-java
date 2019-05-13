@@ -1,4 +1,4 @@
-package headfirst.designpatterns.observer.weather;
+package com.weatherHeadFirst;
 
 public class HeatIndexDisplay implements Observer, DisplayElement {
 	float heatIndex = 0.0f;
