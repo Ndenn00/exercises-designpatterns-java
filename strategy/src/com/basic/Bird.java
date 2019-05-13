@@ -1,4 +1,4 @@
-package com.patterns;
+package com.basic;
 //TODO sort comments
 public class Bird extends Animal{
 

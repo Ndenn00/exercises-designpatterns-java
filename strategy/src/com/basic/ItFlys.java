@@ -1,4 +1,4 @@
-package com.patterns;
+package com.basic;
 
 public class ItFlys implements Flys {
 

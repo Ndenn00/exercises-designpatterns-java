@@ -1,4 +1,4 @@
-package com.patterns;
+package com.basic;
 
 public interface Flys {
 
