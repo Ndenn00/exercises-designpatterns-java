@@ -7,7 +7,7 @@ If at some point the application should be changed in order to support adding nu
 In order to prevent it, the Abstract Factory design pattern is used. Using this pattern a framework is defined, which produces objects that follow a general pattern and at runtime this factory is paired with any concrete factory to produce objects that follow the pattern of a certain country. 
 In other words, the Abstract Factory is a super-factory which creates other factories (Factory of factories).
 
-[abstractFactoryImgae](./abstract-factory-pattern.png)
+[abstractFactoryImage](https://github.com/Ndenn00/exercises-designpatterns-java/blob/master/factory/src/com/abstractFactory/abstract-factory-pattern.png?raw=true)
 
 ## How?
 
