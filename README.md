@@ -5,6 +5,8 @@ A collection of java design patterns and notes for reference
 ### [Factory Methods](./factory/src)
 * Creates an instance of several derived classes
 
+### [Singleton](./singleton) 
+
 ## Behavioural 
 ### [Observer](./observer)
 * A way of notifying change to a number of classes
