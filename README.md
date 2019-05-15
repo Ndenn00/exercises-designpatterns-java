@@ -9,7 +9,7 @@ A collection of java design patterns and notes for reference
 ### [Observer](./observer)
 * A way of notifying change to a number of classes
 
-## [Strategy](./strategy)
+### [Strategy](./strategy)
 * USe composition over inheritance
 
 ## [Decorator](./decorator)

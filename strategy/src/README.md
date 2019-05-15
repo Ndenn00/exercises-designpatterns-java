@@ -1,5 +1,7 @@
 # Strategy Pattern
 
+![strategyUML](../../images/strategyClassDiagram.gif)
+
 Super class Animal uses interface in a non-typical way. 
 It uses an instance variable that is a subclass of the Flys interface.
 
