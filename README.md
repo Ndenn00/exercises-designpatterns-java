@@ -3,21 +3,25 @@ A collection of java design patterns and notes for reference
 
 ## Creational
 ### [Factory Methods](./factory/src)
-* Creates an instance of several derived classes
+Creates an instance of several derived classes. 
 
 ### [Singleton](./singleton) 
+Ensures that only one instance of a class is created. 
 
 ## Behavioural 
 ### [Observer](./observer)
-* A way of notifying change to a number of classes
+A way of notifying change to a number of classes. 
 
 ### [Strategy](./strategy)
-* USe composition over inheritance
+Using composition over inheritance. 
 
 ## [Decorator](./decorator)
+Add additional responsibilities dynamically to an object.
 
+## [Command](./command)
+Encapsulate a request as an object, thereby letting you parametrize clients with different requests, queue or log requests, and support undoable operations.
 
-## Read UML 
+## How to Read UML 
 
 # Relationships 
 ![umlRelationships](images/umlRelationships.png)
