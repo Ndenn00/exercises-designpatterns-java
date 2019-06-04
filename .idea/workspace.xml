@@ -5,19 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b87f38c-3470-44d6-b653-242639275964" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/command/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/command.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/GarageDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/GarageDoorOpenCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/RemoteControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/SimpleRemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/CeilingFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/CeilingFanHighCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/CeilingFanMediumCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/CeilingFanOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/Hottub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/HottubOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/HottubOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/LivingroomLightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/LivingroomLightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/MacroCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/NoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/RemoteLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/StereoOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/StereoOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/StereoOnWithCDCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/TVOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/macroCommand/TVOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/CeilingFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/GarageDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/Hottub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/RemoteLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/TV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/command/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,31 +66,33 @@
     <session id="-1767793869">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="126" />
-          <entry key="md" value="30" />
+          <entry key="java" value="138" />
+          <entry key="md" value="31" />
           <entry key="png" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="3" />
-          <entry key="JAVA" value="126" />
-          <entry key="Markdown" value="30" />
+          <entry key="JAVA" value="138" />
+          <entry key="Markdown" value="31" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -76,26 +100,47 @@
         <counts>
           <entry key="gitignore" value="6" />
           <entry key="java" value="520" />
-          <entry key="md" value="8126" />
+          <entry key="md" value="8922" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="520" />
-          <entry key="Markdown" value="8126" />
+          <entry key="Markdown" value="8922" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/CeilingFan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#234#235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/command/src/com/basic/macroCommand/RemoteLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/command/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="301">
-                <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <first_editor relative-caret-position="323">
+                <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -103,10 +148,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/RemoteControlTest.java">
+        <entry file="file://$PROJECT_DIR$/command/src/com/basic/macroCommand/RemoteControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="59" lean-forward="true" selection-start-line="2" selection-end-line="7" selection-end-column="59" />
+            <state relative-caret-position="201">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/command/src/com/basic/macroCommand/MacroCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,8 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/factory/src/com/abstractFactory/ChicagoPizzaIngredientFactory.java" />
-        <option value="$PROJECT_DIR$/factory/src/com/abstractFactory/ChicagoPizzaStore.java" />
         <option value="$PROJECT_DIR$/factory/src/com/abstractFactory/ClamPizza.java" />
         <option value="$PROJECT_DIR$/factory/src/com/abstractFactory/Pizza.java" />
         <option value="$PROJECT_DIR$/factory/src/com/abstractFactory/Clams.java" />
@@ -177,6 +232,8 @@
         <option value="$PROJECT_DIR$/singleton/src/com/basic/SingletonClient.java" />
         <option value="$PROJECT_DIR$/singleton/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/CeilingFan.java" />
+        <option value="$PROJECT_DIR$/command/src/com/basic/macroCommand/RemoteLoader.java" />
         <option value="$PROJECT_DIR$/command/README.md" />
       </list>
     </option>
@@ -187,7 +244,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -198,7 +255,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,18 +278,7 @@
               <item name="exercises-designpatterns-java" type="462c0819:PsiDirectoryNode" />
               <item name="command" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="simpleRemoteControl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises-designpatterns-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises-designpatterns-java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises-designpatterns-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises-designpatterns-java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercises-designpatterns-java" type="b2602c69:ProjectViewProjectNode" />
@@ -257,12 +302,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559032090856" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559635841346" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -271,11 +317,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\niald\Documents\workspace\exercises-designpatterns-java\command\src\com\basic\remoteWithMultipleCommands" />
+      <recent name="C:\Users\niald\Documents\workspace\exercises-designpatterns-java\command\src\com\basic\simpleWL" />
       <recent name="C:\Users\niald\Documents\workspace\exercises-designpatterns-java\command\src\com\basic\simpleRemoteControl" />
       <recent name="C:\Users\niald\Documents\workspace\exercises-designpatterns-java\singleton\src\com\doucleCheckedLocking" />
       <recent name="C:\Users\niald\Documents\workspace\exercises-designpatterns-java\singleton\src\com\threadSafe" />
-      <recent name="C:\Users\niald\Documents\workspace\exercises-designpatterns-java\strategy\src" />
-      <recent name="C:\Users\niald\Documents\workspace\exercises-designpatterns-java\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -290,33 +336,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoteLoader">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.simpleHeadFirst.Example" />
-      <module name="observer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.simpleHeadFirst.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.Main" />
-      <module name="strategy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RemoteLoader (1)">
     <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abstractFactory.PizzaTestDrive" />
       <module name="factory" />
@@ -330,12 +350,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoteControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.simpleRemoteControl.RemoteControlTest" />
+      <module name="command" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.simpleRemoteControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.basic.simpleRemoteControl.RemoteLoader" />
       <module name="command" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.basic.simpleRemoteControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.simpleRemoteControlWithLevels.RemoteLoader" />
+      <module name="command" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.simpleRemoteControlWithLevels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.macroCommand.RemoteLoader" />
+      <module name="command" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.macroCommand.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,19 +416,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Example" />
       <item itemvalue="Application.PizzaTestDrive" />
       <item itemvalue="Application.StarbuzzCoffee" />
       <item itemvalue="Application.RemoteLoader" />
+      <item itemvalue="Application.RemoteControlTest" />
+      <item itemvalue="Application.RemoteLoader (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoteLoader (1)" />
+        <item itemvalue="Application.RemoteLoader (1)" />
+        <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.RemoteLoader" />
         <item itemvalue="Application.StarbuzzCoffee" />
-        <item itemvalue="Application.PizzaTestDrive" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -390,18 +449,20 @@
       <workItem from="1557855348296" duration="3366000" />
       <workItem from="1557905947558" duration="2037000" />
       <workItem from="1557910436410" duration="10339000" />
-      <workItem from="1559029191654" duration="2739000" />
+      <workItem from="1559029191654" duration="2804000" />
+      <workItem from="1559547039711" duration="2196000" />
+      <workItem from="1559633038495" duration="2236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30397000" />
+    <option name="totallyTimeSpent" value="34894000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18723994" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18724832" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -411,13 +472,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32765958" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40315637" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32664755" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3252149" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -488,80 +549,34 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/RemoteControlTest.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/RemoteLoader.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/command/src/com/basic/macroCommand/RemoteLoader.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/command/src/com/basic/macroCommand/RemoteLoader.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/MarinaraSauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/MozzarellaCheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/Mushroom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/NYPizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/Onion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/ParmesanCheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/Pepperoni.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/PepperoniPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/PizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/factory/src/com/abstractFactory/PlumTomatoSauce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -821,46 +836,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/CeilingFan.java">
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/CeilingFan.java" />
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/NoCommand.java" />
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/RemoteControl.java" />
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/RemoteLoader.java" />
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/SimpleRemoteControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/NoCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/RemoteControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/RemoteLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControl/RemoteControlTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="59" lean-forward="true" selection-start-line="2" selection-end-line="7" selection-end-column="59" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/GarageDoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/RemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/RemoteLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/simpleRemoteControlWithLevels/CeilingFan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/macroCommand/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/macroCommand/MacroCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/macroCommand/RemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command/src/com/basic/macroCommand/RemoteLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/command/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="301">
-            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <first_editor relative-caret-position="323">
+            <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>

@@ -23,9 +23,22 @@ public class RemoteControlTest {  //This is the client
 ```
 
 ## Why? 
+* Completely decouple a client calling a method from the receiving object. 
+* View the history of requests made or as you need, undo them.
+* Encapsulate all the data you want to send.
+* Change the parameters of these requests without violating the open-closed principle.
+
+
 
 ## When to use? 
+Typical uses of the the command pattern are systems that take some piece of computation and pass it as a first class object. 
+The client creates the object and calls the execute method on a loosely coupled action. 
+These actions can be called on by different threads. 
 
+Imagine a job queue, you add commands at one end and at the other end are threads. Threads remove the command from the queue, call the execute method, 
+wait for the call to finish, then discard the command object and retrieve a new one. 
 
-## When not to use? 
-
+This model can include use cases for: 
+* Schedulers
+* Thread pools 
+* Job queues
